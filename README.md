@@ -1,8 +1,6 @@
 # Forecasting of Italian electricity spot prices
 
-We present an application of the Facebook's Prophet approach using STL. 
-
-
+We present an application of the _Facebook's Prophet_ approach using STL.
 
 STL = Seasonal and trend decomposition using LOESS.
 
