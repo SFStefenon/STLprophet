@@ -9,3 +9,5 @@ STL = Seasonal and trend decomposition using LOESS.
 LOESS = Locally estimated scatterplot smoothing.
 
 Written by Dr. Stefano Frizzo Stefenon.
+
+![image](https://user-images.githubusercontent.com/88292916/209415065-e7ef7e86-1f58-423b-8989-51a68b66928f.png)
