@@ -10,4 +10,4 @@ LOESS = Locally estimated scatterplot smoothing.
 
 Written by Dr. Stefano Frizzo Stefenon.
 
-![image](https://user-images.githubusercontent.com/88292916/209415093-a11d8b99-696a-4e50-ade9-030d87afacba.png)
+![image](https://user-images.githubusercontent.com/88292916/209429839-dcac8e3b-90b5-44ac-b827-efa859b5f0c6.png)
