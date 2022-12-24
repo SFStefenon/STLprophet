@@ -2,7 +2,7 @@
 
 We present an application of the _Facebook's Prophet_ approach using _STL_.
 
-The evaluation is performed relative to the Italy electricity spot prices time series, considering the values recorded from 2015-01-02 to 2022-11-30.
+The evaluation is performed relative to the time series of the Italy electricity spot prices, considering the values recorded from February 01, 2015 to November 30, 2022.
 
 STL = Seasonal and trend decomposition using LOESS.
 
