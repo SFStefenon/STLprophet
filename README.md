@@ -19,6 +19,10 @@ Please go ahead and try it on [Google Colab](https://colab.research.google.com/g
 
 ---
 
+'
+@Article{en16031371, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Aggregating Prophet and Seasonal Trend Decomposition for Time Series Forecasting of Italian Electricity Spot Prices}, JOURNAL = {Energies}, VOLUME = {16}, YEAR = {2023}, PAGES = {3}, ARTICLE-NUMBER = {1371}, DOI = {10.3390/en16031371}}
+'
+
 ---
 
 Wrote by Dr. **Stefano Frizzo Stefenon**.
