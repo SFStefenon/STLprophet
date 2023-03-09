@@ -15,14 +15,15 @@ Written by Dr. Stefano Frizzo Stefenon.
 
 
 
-Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/STLprophet/blob/main/STLprophet.ipynb)!
+Please go ahead and try it on **[Google Colab](https://colab.research.google.com/github/SFStefenon/STLprophet/blob/main/STLprophet.ipynb)**!
 
 ---
 
-Additional information can be found at: https://doi.org/10.3390/en16031371
+Additional information can be found at: 
 
-Bib
+Additional information can be found at the **[Original Paper](https://doi.org/10.3390/en16031371)**.
 
+BibTeX:
 `@Article{en16031371, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Aggregating Prophet and Seasonal Trend Decomposition for Time Series Forecasting of Italian Electricity Spot Prices}, JOURNAL = {Energies}, VOLUME = {16}, YEAR = {2023}, PAGES = {3}, ARTICLE-NUMBER = {1371}, DOI = {10.3390/en16031371}}`
 
 
