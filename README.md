@@ -4,7 +4,7 @@ We present an application of the **Facebook's Prophet** approach using seasonal 
 
 The evaluation is performed relative to the time series of the Italy electricity spot prices, considering the values recorded from February 01, 2015 to November 30, 2022, corresponding to 2891 observations.
 
-![image](https://user-images.githubusercontent.com/88292916/224112476-7aaf7fe0-d311-45d5-b158-50a753439386.png)
+![image](https://user-images.githubusercontent.com/88292916/224112646-57a357df-f59b-419b-8c30-301fcc8a3c44.png)
 
 Please go ahead and try it on **[Google Colab](https://colab.research.google.com/github/SFStefenon/STLprophet/blob/main/STLprophet.ipynb)**!
 
