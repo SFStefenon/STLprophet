@@ -1,6 +1,6 @@
 # STLprophet for forecasting Italian electricity spot prices
 
-We present an application of the **Facebook's Prophet** approach using seasonal and trend decomposition using LOESS (**STL**).
+We present an application of the **Facebook's Prophet** using seasonal and trend decomposition using LOESS (**STL**).
 
 The evaluation is performed relative to the time series of the Italy electricity spot prices, considering the values recorded from February 01, 2015 to November 30, 2022, corresponding to 2891 observations.
 
