@@ -14,6 +14,6 @@ Written by Dr. Stefano Frizzo Stefenon.
 
 ---
 
-Wrote by Dr. **Stefano Frizzo Stefenon** and Dr. **Laio Oriel Seman**.
+Wrote by Dr. **Stefano Frizzo Stefenon**.
 
 Trento, Italy, January 10, 2023.
