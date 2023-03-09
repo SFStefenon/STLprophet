@@ -8,7 +8,6 @@ STL = Seasonal and trend decomposition using LOESS.
 
 LOESS = Locally estimated scatterplot smoothing.
 
-Written by Dr. Stefano Frizzo Stefenon.
 
 ![image](https://user-images.githubusercontent.com/88292916/209429839-dcac8e3b-90b5-44ac-b827-efa859b5f0c6.png)
 
@@ -19,13 +18,10 @@ Please go ahead and try it on **[Google Colab](https://colab.research.google.com
 
 ---
 
-Additional information can be found at: 
-
 Additional information can be found at the **[Original Paper](https://doi.org/10.3390/en16031371)**.
 
 BibTeX:
 `@Article{en16031371, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Aggregating Prophet and Seasonal Trend Decomposition for Time Series Forecasting of Italian Electricity Spot Prices}, JOURNAL = {Energies}, VOLUME = {16}, YEAR = {2023}, PAGES = {3}, ARTICLE-NUMBER = {1371}, DOI = {10.3390/en16031371}}`
-
 
 ---
 
