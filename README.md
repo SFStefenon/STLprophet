@@ -10,6 +10,8 @@ Please go ahead and try it on **[Google Colab](https://colab.research.google.com
 
 Additional information can be found at the **[Original Paper](https://doi.org/10.3390/en16031371)**.
 
+Stefenon, S. F., Seman, L. O., Mariani, V. C., Coelho, L. S. Aggregating prophet and seasonal trend decomposition for time series forecasting of Italian electricity spot prices, Energies, vol. 16, n. 3, p. 1371, 2023.
+
 BibTeX:
 `@Article{en16031371, AUTHOR = {Stefenon, Stefano Frizzo and Seman, Laio Oriel and Mariani, Viviana Cocco and Coelho, Leandro dos Santos}, TITLE = {Aggregating prophet and seasonal trend decomposition for time series forecasting of Italian electricity spot prices}, JOURNAL = {Energies}, VOLUME = {16}, YEAR = {2023}, NUMBER = {3}, PAGES = {1371}, DOI = {10.3390/en16031371}}`
 
